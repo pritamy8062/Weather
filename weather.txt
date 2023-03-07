@@ -1,0 +1,13 @@
+brand:
+    font-weight: 500;
+    margin-left: 2rem;
+    font-size: 3rem;
+    color: rgb(179 233 249);
+
+nav-link:
+    margin-right: 2rem;
+    ul:font-size: 1.25rem;
+
+navbar:
+    background-image: linear-gradient(13deg, #001022, transparent);
+    box-shadow: 0 0px 16px 5px;
